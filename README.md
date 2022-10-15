@@ -33,5 +33,5 @@ Users should be able to:
 
 ## Author
 
-- Github - [Add your name here] https://github.com/lizSilva27
-- Frontend Mentor - [@yourusername] https://www.frontendmentor.io/profile/lizSilva27
+- Github - https://github.com/lizSilva27
+- Frontend Mentor https://www.frontendmentor.io/profile/lizSilva27
