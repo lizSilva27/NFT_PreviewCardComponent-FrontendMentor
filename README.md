@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/lizSilva27/NFT_PreviewCardComponent-FrontendMentor)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://ntfcardcomponent.netlify.app))
+- Solution URL: [Add solution URL here]https://github.com/lizSilva27/NFT_PreviewCardComponent-FrontendMentor
+- Live Site URL: [Add live site URL here] https://your-live-site-url.com](https://ntfcardcomponent.netlify.app
 
 ## My process
 
@@ -33,5 +33,5 @@ Users should be able to:
 
 ## Author
 
-- Github - [Add your name here](https://github.com/lizSilva27)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lizSilva27)
+- Github - [Add your name here] https://github.com/lizSilva27
+- Frontend Mentor - [@yourusername] https://www.frontendmentor.io/profile/lizSilva27
